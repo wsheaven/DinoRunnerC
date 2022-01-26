@@ -6,7 +6,7 @@ The goal of this project was to increase my understanding and familiarity with t
 The program is meant to play the dinosour game on chrome. The point of the game is for the dinosour (you) to avoid randomly generated catcus and other dinosours. The way the game wors is you run the program and then open up the dinosour game. Because it scales you first place your cursor on the dinosours arm and then press a to show the program where to look for incoming obstacles. 
 
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/kR__4YlKR6I)
 
 # Development Environment
 
