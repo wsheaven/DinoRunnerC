@@ -3,7 +3,12 @@
 
 The goal of this project was to increase my understanding and familiarity with the language of c++. I did not to work on something boring like a calculator so I decided that building a program to play the chrome dinosour game would be much more engaging. 
 
-The program is meant to play the dinosour game on chrome. The point of the game is for the dinosour (you) to avoid randomly generated catcus and other dinosours. The way the game wors is you run the program and then open up the dinosour game. Because it scales you first place your cursor on the dinosours arm and then press a to show the program where to look for incoming obstacles. 
+The program is meant to play the dinosour game on chrome. The point of the game is for the dinosour (you) to avoid randomly generated catcus and other dinosours. 
+
+## How to Play 
+1. Run the program. 
+2. Open a chrome window and go to chrome://dino/ 
+3. place your cursor on the dinsours arm then press a to show the program where to look for obstacles
 
 
 [Software Demo Video](https://youtu.be/kR__4YlKR6I)
